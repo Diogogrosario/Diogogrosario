@@ -2,9 +2,9 @@
 
 # Hi, I’m Diogo Rosário 👋
 
-### Senior Software Engineer · Backend, Data Platforms & Cloud
+### Senior Software Engineer
 
-Building scalable data platforms, backend systems and full-stack applications on Azure.<br>
+Building scalable data platforms, backend systems and full-stack applications with experience in cloud technologies.<br>
 Based in Madrid 🇪🇸 · from Portugal 🇵🇹 · MSc Informatics & Computer Engineering, University of Porto (FEUP)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-ros%C3%A1rio)
